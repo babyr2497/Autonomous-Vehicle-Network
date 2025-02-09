@@ -7,3 +7,5 @@ R
 "tests/vehicle-registration.test.ts,f/4/f4e856bd7299c94b3b4918f3d899cd5c05d3b627
 Q
 !contracts/payment-processing.clar,5/9/5926a5ac11855697180d819d58e223389a545d2b
+P
+ tests/payment-processing.test.ts,e/f/ef7484d00110932cbe9dc7c3d7ae60aa83db8e18
